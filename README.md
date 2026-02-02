@@ -1,4 +1,4 @@
-\# Gym Workout Log
+# Gym Workout Log
 
 
 
@@ -6,25 +6,25 @@ A professional CLI (Command Line Interface) application built with Python and SQ
 
 
 
-\## 🎓 Purpose of this Project
+## 🎓 Purpose of this Project
 
-Please note: This script was created for \*\*educational purposes\*\* and to gain hands-on experience with Python, OOP, and database management. While simple, it represents the foundational building blocks of more complex software architectures.
+Please note: This script was created for **educational purposes** and to gain hands-on experience with Python, OOP, and database management. While simple, it represents the foundational building blocks of more complex software architectures.
 
 
 
 \## 🚀 Features
 
-\- \*\*OOP Design\*\*: Utilizes Python classes for data structuring.
+- **OOP Design**: Utilizes Python classes for data structuring.
 
-\- \*\*Persistence\*\*: SQLite database integration for reliable data storage.
+- **Persistence**: SQLite database integration for reliable data storage.
 
-\- \*\*CRUD Operations\*\*: Create, Read, and Delete workout records.
+- **CRUD Operations**: Create, Read, and Delete workout records.
 
-\- \*\*Error Handling\*\*: Robust input validation and exception management.
+- **Error Handling**: Robust input validation and exception management.
 
 
 
-\## 🛠️ Installation \& Usage
+## 🛠️ Installation \& Usage
 
 1\. Clone the repository: `git clone https://github.com/YOUR\_USERNAME/GymWorkoutLog.git`
 
@@ -34,9 +34,9 @@ Please note: This script was created for \*\*educational purposes\*\* and to gai
 
 
 
-\## 📝 Requirements
+## 📝 Requirements
 
-\- Python 3.x
+- Python 3.x
 
-\- SQLite3 (built-in with Python)
+- SQLite3 (built-in with Python)
 
