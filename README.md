@@ -12,7 +12,7 @@ Please note: This script was created for **educational purposes** and to gain ha
 
 
 
-\## 🚀 Features
+## 🚀 Features
 
 - **OOP Design**: Utilizes Python classes for data structuring.
 
