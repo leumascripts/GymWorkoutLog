@@ -1,4 +1,4 @@
-# Gym Workout Log
+# Gym Workout Log  💪
 
 
 
@@ -24,7 +24,7 @@ Please note: This script was created for **educational purposes** and to gain ha
 
 
 
-## 🛠️ Installation \& Usage
+## 🛠️ Installation & Usage
 
 1\. Clone the repository: `git clone https://github.com/YOUR\_USERNAME/GymWorkoutLog.git`
 
@@ -39,4 +39,10 @@ Please note: This script was created for **educational purposes** and to gain ha
 - Python 3.x
 
 - SQLite3 (built-in with Python)
+
+
+
+## 📄 License
+
+Distributed under the MIT License. See LICENSE for more information.
 
